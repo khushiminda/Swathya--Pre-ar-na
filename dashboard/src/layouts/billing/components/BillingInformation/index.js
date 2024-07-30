@@ -32,21 +32,21 @@ function BillingInformation() {
         <MDBox component="ul" display="flex" flexDirection="column" p={0} m={0}>
           <Bill
             name="The IT Girl"
-            company="MYNTRA"
+            company="Netapp"
             email="khushiminda.smith@cbrnresponse.com"
-            vat="MYNTRA-123456"
+            vat="Netapp-123456"
           />
           <Bill
             name="The DIVA Girl"
-            company="MYNTRA"
+            company="Netapp"
             email="pariminda.smith@cbrnresponse.com"
-            vat="MYNTRA-003456"
+            vat="Netapp-003456"
           />
           <Bill
             name="The Goth Girl"
-            company="MYNTRA"
+            company="Netapp"
             email="sonalminda.smith@cbrnresponse.com"
-            vat="MYNTRA-098734"
+            vat="Netapp-098734"
             noGutter
           />
         </MDBox>

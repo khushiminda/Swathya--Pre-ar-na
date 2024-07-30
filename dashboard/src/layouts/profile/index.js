@@ -66,11 +66,11 @@ function Overview() {
               <Divider orientation="vertical" sx={{ ml: -2, mr: 1 }} />
               <ProfileInfoCard
                 title="profile information"
-                description="Hi, I’m Khushi Minda (team leader),  Gen Z's preferences forinteractive, engaging, and personalized content, positioning Myntra as a leaderin innovative fashion solutions.."
+                description="Hi, I’m Khushi Minda (team leader),  This is a sample profile page for patient/doctor/trainee to access"
                 info={{
                   fullName: "khushi",
                   mobile: "123 1234 123",
-                  email: "khushimyntra@mail.com",
+                  email: "khushiNetapp@mail.com",
                   location: "India,New Delhi",
                 }}
                 social={[

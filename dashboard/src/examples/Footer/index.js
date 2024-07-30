@@ -82,7 +82,7 @@ function Footer({ company, links }) {
 
 // Setting default values for the props of Footer
 Footer.defaultProps = {
-  company: { href: "/", name: "Team Astutas (Myntra)" },
+  company: { href: "/", name: "Team Swasthya Pre(ar)na (Netapp)" },
   links: [
     { href: "/", name: "" },
     { href: "/", name: "" },
