@@ -15,7 +15,7 @@ const Dashboard= () => {
             id: 2,
             title: 'Low User Engagement and Habitual Visits',
             image: image2,
-            description: 'Myntra struggles to maintain high user engagement and frequent visits, especially among Gen Z. In a competitive market, it is crucial to enhance user engagement and provide a seamless shopping experience.',
+            description: 'Netapp struggles to maintain high user engagement and frequent visits, especially among Gen Z. In a competitive market, it is crucial to enhance user engagement and provide a seamless shopping experience.',
         },
         {
             id: 3,
@@ -29,7 +29,7 @@ const Dashboard= () => {
         <div className="bg-gray-50">
             <div className="bg-pink-100 py-8">
                 <div className="text-center mb-8">
-                    <h1 className="text-5xl font-bold text-pink-600">Myntra Hackerramp </h1>
+                    <h1 className="text-5xl font-bold text-pink-600">Netapp Hackathon  </h1>
                 </div>
 
                

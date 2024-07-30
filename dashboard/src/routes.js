@@ -19,7 +19,7 @@ const routes = [
   },
   {
     type: "collapse",
-    name: "#ARCloset",
+    name: "#MENTAL HEALTH",
     key: "evaluation",
     icon: <Icon fontSize="small">receipt_long</Icon>,
     route: "/evaluation",
@@ -27,7 +27,7 @@ const routes = [
   },
   {
     type: "collapse",
-    name: "#ShopLiveNow",
+    name: "#VIRTUAL WORLD",
     key: "VirtualTryOn",
     icon: <Icon fontSize="small">VR</Icon>,
     route: "/VirtualTryOn",
@@ -37,7 +37,7 @@ const routes = [
  
   {
     type: "collapse",
-    name: "#SwipetoStyle",
+    name: "#Surgical training",
     key: "SwipeableVideos",
     icon: <Icon fontSize="small">assignment</Icon>,
     route: "/reels",
@@ -46,7 +46,7 @@ const routes = [
   },
   {
     type: "collapse",
-    name: "#StyleGenie",
+    name: "#Doctor Procter",
     key: "chatbot",
     icon: <Icon fontSize="small">VR training</Icon>,
     route: "/chatbot",
@@ -54,7 +54,7 @@ const routes = [
   },
   {
     type: "collapse",
-    name: "#PerfectlyYou",
+    name: "#Patient Records",
     key: "arlearning",
     icon: <Icon fontSize="small">VR training</Icon>,
     route: "/arlearning",
