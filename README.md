@@ -1,4 +1,4 @@
-# Website made by team Swathya Pre(ar)na 
+# Website made by team Swathya Pre(ar)na by E nari
 # Features
 
 
