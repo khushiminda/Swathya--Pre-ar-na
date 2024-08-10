@@ -4,7 +4,7 @@
 
 Clone the Repository:
 
-    git clone https://github.com/khushiminda/Myntra---Team-ASTUTAS.git
+    git clone https://github.com/khushiminda/Netapp Hackathon---Team-Swasthya Pre(AR)na.git
 
 Install Dependencies: Ensure you have Node.js and npm installed. Run the following command to install the required dependencies:
 

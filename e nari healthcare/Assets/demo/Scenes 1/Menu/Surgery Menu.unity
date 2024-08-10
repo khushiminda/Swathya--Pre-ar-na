@@ -370,7 +370,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: WoundSurgery
+          m_StringArgument: WoundSURGERY
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!1 &954711243
@@ -500,7 +500,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Dental Surgery
+          m_StringArgument: Dental SURGERY
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!1 &1039937541
@@ -757,7 +757,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Fracture Surgery
+          m_StringArgument: Fracture SURGERY
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!1 &1317380829
@@ -887,7 +887,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Cataract Surgery
+          m_StringArgument: Cataract SURGERY
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!1 &1840782162
@@ -1355,7 +1355,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: HeartSurgery
+          m_StringArgument: HeartSURGERY
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!1 &2001847154

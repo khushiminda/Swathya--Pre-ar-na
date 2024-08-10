@@ -43,7 +43,7 @@ function Billing() {
                 <Grid item xs={12} md={6} xl={3}>
                   <DefaultInfoCard
                     icon="account_balance"
-                    title="AR Try Ons"
+                    title="AR SURGERY"
                     description="Clothes at the moment"
                     value="200"
                   />

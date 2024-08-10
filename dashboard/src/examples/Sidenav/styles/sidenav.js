@@ -1,3 +1,5 @@
+import { WrapText } from "@mui/icons-material";
+
 /**
 =========================================================
   React - v2.2.0
@@ -23,6 +25,8 @@ export default function sidenavLogoLabel(theme, ownerState) {
     ml: 0.5,
     fontWeight: fontWeightMedium,
     wordSpacing: pxToRem(-1),
+    display: "flex",
+    flexDirection: "column",
     transition: transitions.create("opacity", {
       easing: transitions.easing.easeInOut,
       duration: transitions.duration.standard,
