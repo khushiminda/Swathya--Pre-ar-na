@@ -34,11 +34,11 @@ function Invoices() {
       </MDBox>
       <MDBox p={2}>
         <MDBox component="ul" display="flex" flexDirection="column" p={0} m={0}>
-          <Invoice date="October, 15, 2022" id="#myntra 20224" price="" />
-          <Invoice date="October, 15, 2022" id="#myntra 20224" price="" />
-          <Invoice date="October, 15, 2022" id="#myntra 20224" price="" />
-          <Invoice date="October, 15, 2022" id="#myntra 20224" price="" />
-          <Invoice date="October, 15, 2022" id="#myntra 20224" price="" noGutter />
+          <Invoice date="October, 15, 2022" id="#Netapp Hackathon 20224" price="" />
+          <Invoice date="October, 15, 2022" id="#Netapp Hackathon 20224" price="" />
+          <Invoice date="October, 15, 2022" id="#Netapp Hackathon 20224" price="" />
+          <Invoice date="October, 15, 2022" id="#Netapp Hackathon 20224" price="" />
+          <Invoice date="October, 15, 2022" id="#Netapp Hackathon 20224" price="" noGutter />
         </MDBox>
       </MDBox>
     </Card>

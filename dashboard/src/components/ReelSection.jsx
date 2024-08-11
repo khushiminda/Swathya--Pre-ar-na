@@ -11,19 +11,19 @@ const videos = [
     id: 1,
     title: 'Local Video 1',
     url: localVideo1,
-    buyLink: 'https://www.myntra.com/',
+    buyLink: 'https://www.Netapp Hackathon.com/',
   },
   {
     id: 2,
     title: 'Video 2',
     url: localVideo2,
-    buyLink: 'https://www.myntra.com/',
+    buyLink: 'https://www.Netapp Hackathon.com/',
   },
   {
     id: 3,
     title: 'Video 3',
     url: localVideo3,
-    buyLink: 'https://www.myntra.com/',
+    buyLink: 'https://www.Netapp Hackathon.com/',
   },
 ];
 
@@ -101,7 +101,7 @@ const SwipeableVideos = () => {
                 
               }}
             >
-              Myntra Filters
+              Therapy Rooms
             </Typography>
             <Button
              variant="contained"

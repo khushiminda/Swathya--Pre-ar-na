@@ -78,7 +78,7 @@ function App() {
             >
               <TypewriterComponent
                 options={{
-                  strings: ["Chatbot", "Personal Designer", "Recommender"],
+                  strings: ["Chatbot", "Personal Medic", "Recommender"],
                   autoStart: true,
                   loop: true,
                 }}

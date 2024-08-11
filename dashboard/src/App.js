@@ -112,13 +112,25 @@ export default function App() {
         {layout === "dashboard" && (
           <>
             <Sidenav
-              color={sidenavColor}
-              brand={(transparentSidenav && !darkMode) || whiteSidenav ? brandDark : brandWhite}
-              brandName="ASTUTAS"
-              routes={routes}
-              onMouseEnter={handleOnMouseEnter}
-              onMouseLeave={handleOnMouseLeave}
-            />
+  color={sidenavColor}
+  brand={(transparentSidenav && !darkMode) || whiteSidenav ? brandDark : brandWhite}
+  brandName={
+    <div style={{ 
+      fontSize: '1.5rem', 
+      lineHeight: '1.2', 
+      fontWeight: 'bold',
+      textAlign: 'left',
+      paddingLeft: '10px' // Add some padding to prevent text from touching the edge
+    }}>
+      Swasthya
+      <br />
+      Pre(AR)na
+    </div>
+  }
+  routes={routes}
+  onMouseEnter={handleOnMouseEnter}
+  onMouseLeave={handleOnMouseLeave}
+/>
             <Configurator />
             {configsButton}
           </>
@@ -138,7 +150,13 @@ export default function App() {
           <Sidenav
             color={sidenavColor}
             brand={(transparentSidenav && !darkMode) || whiteSidenav ? brandDark : brandWhite}
-            brandName="ASTUTAS"
+            brandName={
+              <>
+                SWASTHYA
+                <br />
+                PRE(AR)NA
+              </>
+            }
             routes={routes}
             onMouseEnter={handleOnMouseEnter}
             onMouseLeave={handleOnMouseLeave}

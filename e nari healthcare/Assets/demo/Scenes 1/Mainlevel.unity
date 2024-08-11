@@ -2021,7 +2021,7 @@ GameObject:
   - component: {fileID: 53253473}
   - component: {fileID: 53253478}
   m_Layer: 5
-  m_Name: Surgery
+  m_Name: SURGERY
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5799,7 +5799,7 @@ GameObject:
   - component: {fileID: 204136135}
   - component: {fileID: 204136134}
   m_Layer: 5
-  m_Name: SurgeryUI
+  m_Name: SURGERYUI
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14656,7 +14656,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Surgery
+  m_text: SURGERY
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -16995,7 +16995,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Surgery
+  m_text: SURGERY
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: d4e72d791b61980428b5bc45953f589c, type: 2}
   m_sharedMaterial: {fileID: -3396923944843654960, guid: d4e72d791b61980428b5bc45953f589c,
@@ -22654,7 +22654,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Cataract Surgery
+  m_text: Cataract SURGERY
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 72d5e6da19d9807449711c6e48f5a8df, type: 2}
   m_sharedMaterial: {fileID: -760253577041981082, guid: 72d5e6da19d9807449711c6e48f5a8df,
@@ -47507,7 +47507,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: WoundSurgery
+          m_StringArgument: WoundSURGERY
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1985007719
