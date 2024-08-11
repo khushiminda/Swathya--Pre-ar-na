@@ -18,5 +18,7 @@ Build for Production: To create a production build of the application, run:
 
     npm run build
 
-
+Interactive training sessions aim to offer
+practical and immersive learning experiences
+for patients and trainees
 
