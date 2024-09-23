@@ -3,7 +3,7 @@
 1.6 million deaths annually—what’s the cause? Cancer? Car accidents? Natural disasters? 
 Think again?
 
-Swasthya Prerna
+Swasthya Prerna-
 # Features-
 
 
